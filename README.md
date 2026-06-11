@@ -3,9 +3,8 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-  I build end-to-end web products from system architecture to pixel-level UI<br/>
-  Taking full ownership over the output. <br/>
-  Specialized in JavaScript frameworks and PHP, <br/> with 2+ years shipping CMS, SaaS, and e-commerce platforms in production.
+  I design and ship full-stack web products that reach real users <br> from SaaS platforms and multi-vendor marketplaces to enterprise CMS <br> systems handling 12,000+ data entities and platforms with 5,000+ users. <br>
+  Specialized in JavaScript frameworks and PHP,  with 3+ years building products <br> that are fast, maintainable, and production-ready.
 </p>
 
 <p align="center">
@@ -22,16 +21,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🏢 Currently working at **Codendot** building and maintaining 5+ full-stack CMS platforms (Vue.js, TypeScript, Yii2 PHP) serving **500+ daily active users**
-- 🔧 Building **Linfolio** at Codendot a SaaS link-in-bio platform with advanced website builder capabilities, SEO optimization, and custom domain integration
-- 🚀 Training at **ForwardMENA × OnRamp Academy** advanced track covering Node.js, DevOps, AI engineering & cloud
-- 🛠️ Building **Tenten**, a multi-vendor e-commerce platform with Laravel, React, and Stripe Connect
-- 🎓 **B.Sc. Computer Science** Lebanese University, 2024
-- ⚡ My approach: clean architecture, maintainable code, and products that solve real problems
-
----
 ### 🛠️ Tech Stack
 
 **Frontend**
@@ -68,22 +57,30 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/-SQLite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/-Nginx-white?style=for-the-badge&logo=nginx&logoColor=009639)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-white?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+![Heroku](https://img.shields.io/badge/-Heroku-white?style=for-the-badge&logo=heroku&logoColor=430098)
 
-**Tools & Integrations**
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=F05032)
 ![REST APIs](https://img.shields.io/badge/-RESTful_APIs-white?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Stripe](https://img.shields.io/badge/-Stripe-white?style=for-the-badge&logo=stripe&logoColor=635BFF)
 ![Axios](https://img.shields.io/badge/-Axios-white?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![Clerk](https://img.shields.io/badge/-Clerk-white?style=for-the-badge&logo=clerk&logoColor=6C47FF)
 ![Sentry](https://img.shields.io/badge/-Sentry-white?style=for-the-badge&logo=sentry&logoColor=362D59)
+![Notion](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&logoColor=000000)
+
+**Payments & Auth**
+
+![Stripe](https://img.shields.io/badge/-Stripe-white?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Clerk](https://img.shields.io/badge/-Clerk-white?style=for-the-badge&logo=clerk&logoColor=6C47FF)
+
+**AI & Integrations**
+
 ![Vapi](https://img.shields.io/badge/-Vapi-white?style=for-the-badge&logo=vapi&logoColor=000000)
 ![Roboflow](https://img.shields.io/badge/-Roboflow_AI-white?style=for-the-badge&logo=roboflow&logoColor=6706CE)
 ![Binance](https://img.shields.io/badge/-Binance_WebSockets-white?style=for-the-badge&logo=binance&logoColor=F0B90B)
-![Notion](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&logoColor=000000)
 
 **Workflow & Methodology**
 
